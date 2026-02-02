@@ -1,5 +1,13 @@
 #
 
+## [Unreleased]
+
+### Enhancements
+
+- Honor the serverURL init parameter on Android by configuring it through MixpanelOptions and bumping the native SDK to v8.2.7.
+
+#
+
 ## [v3.1.2](https://github.com/mixpanel/mixpanel-react-native/tree/v3.1.2) (2025-06-05)
 
 ### Fixes
